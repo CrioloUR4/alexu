@@ -2,6 +2,7 @@ import time
 from datetime import datetime
 from core.dados import ler_dados_config
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
+from utils.playwright_utils import navegador_ativo
 from bs4 import BeautifulSoup
 import os
 import json
@@ -54,6 +55,10 @@ def executar_ciclo_real(context, page):
     print("🔄 Atualizando grid de cargas...")
 
     try:
+        if not navegador_ativo(page):
+            print(f"[ERRO] {datetime.now()} - Navegador foi fechado durante a leitura. Encerrando ciclo.")
+            return
+
         # Volta para página 1, se possível
         botao_pagina_1 = page.query_selector("input[type='submit'][value='1']")
         if botao_pagina_1:
@@ -70,6 +75,10 @@ def executar_ciclo_real(context, page):
         cargas_temp = []
 
         while True:
+            if not navegador_ativo(page):
+                print(f"[ERRO] {datetime.now()} - Navegador foi fechado durante a leitura. Encerrando ciclo.")
+                break
+
             print(f"📄 Lendo página {pagina}...")
             page.wait_for_selector("#ctlLoadedControl_dgRight", timeout=10000)
             linhas = page.query_selector_all("#ctlLoadedControl_dgRight tr")[1:]
@@ -87,7 +96,6 @@ def executar_ciclo_real(context, page):
                 }
                 cargas_temp.append(carga)
 
-            # Tenta avançar usando __doPostBack
             try:
                 proximo = page.query_selector("#ctlLoadedControl_btnProximo")
                 if proximo:

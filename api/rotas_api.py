@@ -39,26 +39,48 @@ def navegador_ativo(pagina):
 def ciclo_continuo():
     global contexto_global, pagina_global
 
-    # Cria playwright, navegador/contexto nesta thread
-    from playwright.sync_api import sync_playwright
+    from playwright.sync_api import sync_playwright, Error as PlaywrightError
     registrar_log("INFO", "Thread ciclo: iniciando Playwright próprio.")
+
     with sync_playwright() as pw:
-        contexto, pagina = iniciar_navegador(pw)
-        acessar_pagina_de_cargas(contexto, pagina)
+        try:
+            contexto, pagina = iniciar_navegador(pw)
+        except Exception as e:
+            registrar_log("ERRO", f"Falha ao iniciar navegador: {e}")
+            estado_ciclo["rodando"] = False
+            return
 
         contexto_global = contexto
         pagina_global = pagina
 
+        try:
+            acessar_pagina_de_cargas(contexto, pagina)
+        except PlaywrightError as e:
+            registrar_log("ERRO", f"Navegador foi fechado antes da leitura inicial. Abortando ciclo. {e}")
+            estado_ciclo["rodando"] = False
+            return
+
         while estado_ciclo["rodando"]:
+            if not navegador_ativo(pagina):
+                registrar_log("ERRO", "Navegador foi fechado durante o ciclo. Encerrando thread.")
+                estado_ciclo["rodando"] = False
+                return
+
             try:
                 registrar_log("INFO", "Nova varredura automática de cargas iniciada.")
                 executar_ciclo_real(contexto, pagina)
                 registrar_log("INFO", "Ciclo de cargas finalizado. Reiniciando imediatamente.")
-                # time.sleep(1)  # Opcional
+            except PlaywrightError as e:
+                registrar_log("ERRO", f"Navegador desconectado. Finalizando ciclo: {e}")
+                estado_ciclo["rodando"] = False
+                return
             except Exception as e:
-                registrar_log("ERRO", f"Erro no ciclo contínuo: {e}")
+                registrar_log("ERRO", f"Erro inesperado no ciclo contínuo: {e}")
                 time.sleep(5)
-        # Depois do ciclo, executa comandos extras da fila (ver_material etc)
+
+        registrar_log("INFO", "Thread de ciclo finalizada.")
+        estado_ciclo["rodando"] = False
+
 
 
 # ▶️ Iniciar ciclo contínuo
