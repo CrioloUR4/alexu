@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Sistema de Vinculação</title>
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <h1>Sistema de Vinculação</h1>
+
+  <button onclick="iniciar()">Iniciar</button>
+  <button onclick="parar()">Parar</button>
+  <button onclick="status()">Status</button>
+  <p id="saida"></p>
+
+  <hr>
+  <h2>📦 Grid de Cargas Ativas</h2>
+
+  <table id="tabela-cargas">
+    <thead>
+      <tr>
+        <th draggable="true" data-coluna="dt">
+          DT
+          <span class="ordenar-botao" onclick="ordenarColuna(this)">↕️</span>
+          <span class="filtro-botao" onclick="abrirFiltro(this)">🔽</span>
+        </th>
+        <th draggable="true" data-coluna="peso">
+          Peso
+          <span class="ordenar-botao" onclick="ordenarColuna(this)">↕️</span>
+          <span class="filtro-botao" onclick="abrirFiltro(this)">🔽</span>
+        </th>
+        <th draggable="true" data-coluna="regiao">
+          Região
+          <span class="ordenar-botao" onclick="ordenarColuna(this)">↕️</span>
+          <span class="filtro-botao" onclick="abrirFiltro(this)">🔽</span>
+        </th>
+        <th draggable="true" data-coluna="data_hora">
+          Data/Hora
+          <span class="ordenar-botao" onclick="ordenarColuna(this)">↕️</span>
+          <span class="filtro-botao" onclick="abrirFiltro(this)">🔽</span>
+        </th>
+        <th draggable="true" data-coluna="origem">
+          Origem
+          <span class="ordenar-botao" onclick="ordenarColuna(this)">↕️</span>
+          <span class="filtro-botao" onclick="abrirFiltro(this)">🔽</span>
+        </th>
+        <th draggable="true" data-coluna="municipio">
+          Município
+          <span class="ordenar-botao" onclick="ordenarColuna(this)">↕️</span>
+          <span class="filtro-botao" onclick="abrirFiltro(this)">🔽</span>
+        </th>
+        <th draggable="true" data-coluna="uf">
+          UF
+          <span class="ordenar-botao" onclick="ordenarColuna(this)">↕️</span>
+          <span class="filtro-botao" onclick="abrirFiltro(this)">🔽</span>
+        </th>
+        <th draggable="true" data-coluna="clientes">
+          Clientes
+          <span class="ordenar-botao" onclick="ordenarColuna(this)">↕️</span>
+          <span class="filtro-botao" onclick="abrirFiltro(this)">🔽</span>
+        </th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+  <p id="status"></p>
+
+  <script src="script.js"></script>
+</body>
+</html>

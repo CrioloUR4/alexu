@@ -1,0 +1,998 @@
+[
+  {
+    "dt": "10969445",
+    "peso": "22.250,000",
+    "regiao": "GUARULHOS",
+    "data_hora": "06.06.2025-11:21:00",
+    "origem": "ZIPA - Ipatinga - MG (Usiminas)",
+    "clientes": "10 - SOLUÇÕES EM AÇO USIMINAS S.A",
+    "municipio": "GUARULHOS",
+    "uf": "SP",
+    "itens_material": [
+      {
+        "material": "50022493",
+        "descricao": "CG-LTQ 12,50X1200X6000 1018SS36/CIVIL300",
+        "unidade": "KG",
+        "quantidade": "2.880,000"
+      },
+      {
+        "material": "50022493",
+        "descricao": "CG-LTQ 12,50X1200X6000 1018SS36/CIVIL300",
+        "unidade": "KG",
+        "quantidade": "1.460,000"
+      },
+      {
+        "material": "50007739",
+        "descricao": "CG - LTQ  9,50X1200X6000 ASTM-A-1018-SS3",
+        "unidade": "KG",
+        "quantidade": "2.740,000"
+      }
+    ]
+  },
+  {
+    "dt": "10997347",
+    "peso": "10.860,000",
+    "regiao": "SAO PAULO",
+    "data_hora": "10.06.2025-11:36:00",
+    "origem": "LM01 - SU Mooca-Ferrolene/SP",
+    "clientes": "10749 - FUNSA INDUSTRIA E COMERCIO LTDA, 5625 - URIFER COM IND FERRO AÇO LTDA",
+    "municipio": "SAO PAULO, SÃO PAULO",
+    "uf": "SP, SP",
+    "itens_material": [
+      {
+        "material": "54024189",
+        "descricao": "PLTQD  4,00X515X308 MS.50002-LA-H-500Y56",
+        "unidade": "KG",
+        "quantidade": "2.485,000"
+      },
+      {
+        "material": "54024189",
+        "descricao": "PLTQD  4,00X515X308 MS.50002-LA-H-500Y56",
+        "unidade": "KG",
+        "quantidade": "4.895,000"
+      },
+      {
+        "material": "54024189",
+        "descricao": "PLTQD  4,00X515X308 MS.50002-LA-H-500Y56",
+        "unidade": "KG",
+        "quantidade": "2.485,000"
+      },
+      {
+        "material": "54024189",
+        "descricao": "PLTQD  4,00X515X308 MS.50002-LA-H-500Y56",
+        "unidade": "KG",
+        "quantidade": "4.895,000"
+      },
+      {
+        "material": "54014437",
+        "descricao": "CF  1,90X1000X3070 SAE-1008",
+        "unidade": "KG",
+        "quantidade": "3.480,000"
+      }
+    ]
+  },
+  {
+    "dt": "10998984",
+    "peso": "12.271,000",
+    "regiao": "uba",
+    "data_hora": "06.06.2025-09:00:00",
+    "origem": "CD02 - Belo Horizonte - MG",
+    "clientes": "63593 - Bimove Equipamentos Ltda",
+    "municipio": "uba",
+    "uf": "MG",
+    "itens_material": [
+      {
+        "material": "77003300",
+        "descricao": "TBC 50x50x2,65LQx6000 BC",
+        "unidade": "KG",
+        "quantidade": "3.089,000"
+      },
+      {
+        "material": "77003300",
+        "descricao": "TBC 50x50x2,65LQx6000 BC",
+        "unidade": "KG",
+        "quantidade": "2.595,000"
+      },
+      {
+        "material": "77003300",
+        "descricao": "TBC 50x50x2,65LQx6000 BC",
+        "unidade": "KG",
+        "quantidade": "3.089,000"
+      },
+      {
+        "material": "77003300",
+        "descricao": "TBC 50x50x2,65LQx6000 BC",
+        "unidade": "KG",
+        "quantidade": "2.595,000"
+      },
+      {
+        "material": "77003392",
+        "descricao": "TBC 30x50x2,00LQx6000 BC",
+        "unidade": "KG",
+        "quantidade": "1.073,000"
+      },
+      {
+        "material": "77003392",
+        "descricao": "TBC 30x50x2,00LQx6000 BC",
+        "unidade": "KG",
+        "quantidade": "3.267,000"
+      },
+      {
+        "material": "77003392",
+        "descricao": "TBC 30x50x2,00LQx6000 BC",
+        "unidade": "KG",
+        "quantidade": "1.073,000"
+      },
+      {
+        "material": "77003392",
+        "descricao": "TBC 30x50x2,00LQx6000 BC",
+        "unidade": "KG",
+        "quantidade": "3.267,000"
+      },
+      {
+        "material": "77003895",
+        "descricao": "TBC 50x50x2,00LQx6000 BC",
+        "unidade": "KG",
+        "quantidade": "1.057,000"
+      },
+      {
+        "material": "77003902",
+        "descricao": "TBC 31,75x2,00LQx6000 BC",
+        "unidade": "KG",
+        "quantidade": "1.190,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999020",
+    "peso": "33.450,000",
+    "regiao": "GUARULHOS",
+    "data_hora": "11.06.2025-09:11:00",
+    "origem": "ZMEC - Ipatinga - MG (Mecânica)",
+    "clientes": "10 - SOLUÇÕES EM AÇO USIMINAS S.A",
+    "municipio": "GUARULHOS",
+    "uf": "SP",
+    "itens_material": [
+      {
+        "material": "50027211",
+        "descricao": "CG - LCG 12,50X2500X6000 ASTM-A-36/A-131",
+        "unidade": "KG",
+        "quantidade": "1.520,000"
+      },
+      {
+        "material": "50027211",
+        "descricao": "CG - LCG 12,50X2500X6000 ASTM-A-36/A-131",
+        "unidade": "KG",
+        "quantidade": "1.520,000"
+      },
+      {
+        "material": "50027211",
+        "descricao": "CG - LCG 12,50X2500X6000 ASTM-A-36/A-131",
+        "unidade": "KG",
+        "quantidade": "1.520,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999151",
+    "peso": "22.368,000",
+    "regiao": "MATOZINHOS",
+    "data_hora": "06.06.2025-19:02:00",
+    "origem": "FEMG - Ferrolene - MG",
+    "clientes": "30968 - INOVA ACO TECNOLOGIA EM PERFIS LTDA",
+    "municipio": "MATOZINHOS",
+    "uf": "MG",
+    "itens_material": [
+      {
+        "material": "30001169",
+        "descricao": "RZ 1,20X186 NBR-7008-ZC",
+        "unidade": "KG",
+        "quantidade": "15.886,000"
+      },
+      {
+        "material": "30001169",
+        "descricao": "RZ 1,20X80 NBR-7008-ZC",
+        "unidade": "KG",
+        "quantidade": "6.055,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999661",
+    "peso": "12.600,000",
+    "regiao": "SÃO PAULO",
+    "data_hora": "10.06.2025-12:14:00",
+    "origem": "LM01 - SU Mooca-Ferrolene/SP",
+    "clientes": "8391 - BUZAS INDUSTRIA E COMERCIO LTDA",
+    "municipio": "SÃO PAULO",
+    "uf": "SP",
+    "itens_material": [
+      {
+        "material": "30001006",
+        "descricao": "CG-LTQ 12,50X1200X3000 NBR-6656-LNE-500",
+        "unidade": "KG",
+        "quantidade": "7.200,000"
+      },
+      {
+        "material": "30001006",
+        "descricao": "CG-LTQ 12,50X1200X3000 NBR-6656-LNE-500",
+        "unidade": "KG",
+        "quantidade": "5.400,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999667",
+    "peso": "13.684,000",
+    "regiao": "BETIM",
+    "data_hora": "10.06.2025-15:07:00",
+    "origem": "FEMG - Ferrolene - MG",
+    "clientes": "15 - SOLUÇÕES EM AÇO USIMINAS S.A",
+    "municipio": "BETIM",
+    "uf": "MG",
+    "itens_material": [
+      {
+        "material": "54015562",
+        "descricao": "BZ  0,43X1200X NBR-7008-ZC",
+        "unidade": "KG",
+        "quantidade": "6.904,000"
+      },
+      {
+        "material": "12006550",
+        "descricao": "BZ 1,25X1100 B53-3271-15-E335DI",
+        "unidade": "KG",
+        "quantidade": "6.780,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999670",
+    "peso": "11.747,000",
+    "regiao": "CARMOPOLIS DE MINAS",
+    "data_hora": "10.06.2025-13:25:00",
+    "origem": "CD02 - Belo Horizonte - MG",
+    "clientes": "6221 - METALURGICA FERCAR LTDA",
+    "municipio": "CARMOPOLIS DE MINAS",
+    "uf": "MG",
+    "itens_material": [
+      {
+        "material": "77010154",
+        "descricao": "TBC 30x50x0,90LFx6000 BC",
+        "unidade": "KG",
+        "quantidade": "3.910,000"
+      },
+      {
+        "material": "77010154",
+        "descricao": "TBC 30x50x0,90LFx6000 BC",
+        "unidade": "KG",
+        "quantidade": "3.917,000"
+      },
+      {
+        "material": "77010154",
+        "descricao": "TBC 30x50x0,90LFx6000 BC",
+        "unidade": "KG",
+        "quantidade": "3.920,000"
+      },
+      {
+        "material": "77010154",
+        "descricao": "TBC 30x50x0,90LFx6000 BC",
+        "unidade": "KG",
+        "quantidade": "3.910,000"
+      },
+      {
+        "material": "77010154",
+        "descricao": "TBC 30x50x0,90LFx6000 BC",
+        "unidade": "KG",
+        "quantidade": "3.917,000"
+      },
+      {
+        "material": "77010154",
+        "descricao": "TBC 30x50x0,90LFx6000 BC",
+        "unidade": "KG",
+        "quantidade": "3.920,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999805",
+    "peso": "14.081,000",
+    "regiao": "FRANCO DA ROCHA",
+    "data_hora": "11.06.2025-07:35:00",
+    "origem": "ZGUA - Guarulhos: Bonsucesso - SP",
+    "clientes": "37055 - JOTAEME - FITAFER IND. MET. LTDA",
+    "municipio": "FRANCO DA ROCHA",
+    "uf": "SP",
+    "itens_material": [
+      {
+        "material": "34018003",
+        "descricao": "RQD  2,00X585X TSG-3101G-SPH-590",
+        "unidade": "KG",
+        "quantidade": "4.168,000"
+      },
+      {
+        "material": "34018003",
+        "descricao": "RQD  2,00X585X TSG-3101G-SPH-590",
+        "unidade": "KG",
+        "quantidade": "4.246,000"
+      },
+      {
+        "material": "34018003",
+        "descricao": "RQD  2,00X585X TSG-3101G-SPH-590",
+        "unidade": "KG",
+        "quantidade": "4.662,000"
+      },
+      {
+        "material": "34018003",
+        "descricao": "RQD  2,00X585X TSG-3101G-SPH-590",
+        "unidade": "KG",
+        "quantidade": "4.246,000"
+      },
+      {
+        "material": "34018003",
+        "descricao": "RQD  2,00X585X TSG-3101G-SPH-590",
+        "unidade": "KG",
+        "quantidade": "4.168,000"
+      },
+      {
+        "material": "34019123",
+        "descricao": "RF  1,60X145X TSG-3100G-SPC-590",
+        "unidade": "KG",
+        "quantidade": "855,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999817",
+    "peso": "29.500,000",
+    "regiao": "NOVA BASSANO",
+    "data_hora": "11.06.2025-11:50:00",
+    "origem": "ZPOA - Porto Alegre - RS",
+    "clientes": "32085 - ADELUZ SOLUCOES CONSTRUTIVAS, 33803 - ZATTOMETAL CONSTRUCOES LTDA, 6062 - DAGNESE & COMPANHIA LTDA",
+    "municipio": "NOVA BASSANO, NOVA BASSANO, NOVA BASSANO",
+    "uf": "RS, RS, RS",
+    "itens_material": [
+      {
+        "material": "77031830",
+        "descricao": "TBC 150x200x2,65LQx12000 CIV300",
+        "unidade": "KG",
+        "quantidade": "3.210,000"
+      },
+      {
+        "material": "50037405",
+        "descricao": "CFQ  2,00X1200X3000 USI SOLAR 350",
+        "unidade": "KG",
+        "quantidade": "470,000"
+      },
+      {
+        "material": "10001896",
+        "descricao": "CG 9,50X2440X12000 A36/CIVIL-300",
+        "unidade": "KG",
+        "quantidade": "13.730,000"
+      },
+      {
+        "material": "10001897",
+        "descricao": "CG 12,50X2440X12000 A36/CIVIL-300",
+        "unidade": "KG",
+        "quantidade": "12.090,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999866",
+    "peso": "18.925,000",
+    "regiao": "CAXIAS DO SUL",
+    "data_hora": "11.06.2025-13:25:00",
+    "origem": "ZPOA - Porto Alegre - RS",
+    "clientes": "34858 - MERCOSUL INDUSTRIA DE MOTORES S/A",
+    "municipio": "CAXIAS DO SUL",
+    "uf": "RS",
+    "itens_material": [
+      {
+        "material": "10006992",
+        "descricao": "BF 0,60X1200 USICORE-550",
+        "unidade": "KG",
+        "quantidade": "12.480,000"
+      },
+      {
+        "material": "10006992",
+        "descricao": "BF 0,60X1200 USICORE-550",
+        "unidade": "KG",
+        "quantidade": "6.320,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999895",
+    "peso": "23.220,000",
+    "regiao": "BENTO GONCALVES",
+    "data_hora": "11.06.2025-12:15:00",
+    "origem": "ZPOA - Porto Alegre - RS",
+    "clientes": "36140 - BERTOLINI S.A.",
+    "municipio": "BENTO GONCALVES",
+    "uf": "RS",
+    "itens_material": [
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.600,000"
+      },
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.620,000"
+      },
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.600,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999896",
+    "peso": "23.410,000",
+    "regiao": "BENTO GONCALVES",
+    "data_hora": "11.06.2025-12:16:00",
+    "origem": "ZPOA - Porto Alegre - RS",
+    "clientes": "36140 - BERTOLINI S.A.",
+    "municipio": "BENTO GONCALVES",
+    "uf": "RS",
+    "itens_material": [
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.780,000"
+      },
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.630,000"
+      },
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.780,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999897",
+    "peso": "23.220,000",
+    "regiao": "BENTO GONCALVES",
+    "data_hora": "11.06.2025-12:17:00",
+    "origem": "ZPOA - Porto Alegre - RS",
+    "clientes": "36140 - BERTOLINI S.A.",
+    "municipio": "BENTO GONCALVES",
+    "uf": "RS",
+    "itens_material": [
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.570,000"
+      },
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.650,000"
+      },
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.570,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999898",
+    "peso": "23.130,000",
+    "regiao": "BENTO GONCALVES",
+    "data_hora": "11.06.2025-12:17:00",
+    "origem": "ZPOA - Porto Alegre - RS",
+    "clientes": "36140 - BERTOLINI S.A.",
+    "municipio": "BENTO GONCALVES",
+    "uf": "RS",
+    "itens_material": [
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.700,000"
+      },
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.430,000"
+      },
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.700,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999899",
+    "peso": "23.220,000",
+    "regiao": "BENTO GONCALVES",
+    "data_hora": "11.06.2025-12:18:00",
+    "origem": "ZPOA - Porto Alegre - RS",
+    "clientes": "36140 - BERTOLINI S.A.",
+    "municipio": "BENTO GONCALVES",
+    "uf": "RS",
+    "itens_material": [
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.740,000"
+      },
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.480,000"
+      },
+      {
+        "material": "71001018",
+        "descricao": "BQC TB S1012 2,00x1200 CM",
+        "unidade": "KG",
+        "quantidade": "11.740,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999918",
+    "peso": "21.946,000",
+    "regiao": "SÃO PAULO",
+    "data_hora": "11.06.2025-14:30:00",
+    "origem": "ZGUA - Guarulhos: Bonsucesso - SP",
+    "clientes": "1312 - ZANETTINI BAROSSI S/A INDÚSTRIA E",
+    "municipio": "SÃO PAULO",
+    "uf": "SP",
+    "itens_material": [
+      {
+        "material": "34010855",
+        "descricao": "RQD  2,30X208X TSG-3101G-SPH-440",
+        "unidade": "KG",
+        "quantidade": "3.675,000"
+      },
+      {
+        "material": "34012974",
+        "descricao": "BKR - LF  0,60X395X580 TSG-3100G-SPC-270",
+        "unidade": "KG",
+        "quantidade": "2.387,000"
+      },
+      {
+        "material": "34012440",
+        "descricao": "RQD  2,30X292X TSG-3101G-SPH-590",
+        "unidade": "KG",
+        "quantidade": "3.475,000"
+      },
+      {
+        "material": "34014921",
+        "descricao": "TFF  0,70X700X540 SPC-440",
+        "unidade": "KG",
+        "quantidade": "4.680,000"
+      },
+      {
+        "material": "34014696",
+        "descricao": "BKR - Z  1,20X345X365 TSG-3109-SCGA-270-",
+        "unidade": "KG",
+        "quantidade": "2.049,000"
+      },
+      {
+        "material": "34019610",
+        "descricao": "RQD  4,00X315X TSG-3101G-SPH 440-OD",
+        "unidade": "KG",
+        "quantidade": "3.000,000"
+      },
+      {
+        "material": "34018869",
+        "descricao": "RQD  2,60X243X TSG-3101G-SPH-590",
+        "unidade": "KG",
+        "quantidade": "2.270,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999984",
+    "peso": "18.653,000",
+    "regiao": "BETIM",
+    "data_hora": "11.06.2025-17:11:00",
+    "origem": "FEMG - Ferrolene - MG",
+    "clientes": "423 - STELLANTIS AUTOMOVEIS BRASIL LTDA",
+    "municipio": "BETIM",
+    "uf": "MG",
+    "itens_material": [
+      {
+        "material": "34016902",
+        "descricao": "PLT - EG  1,20X1630X900 FAN-52806-FEP06",
+        "unidade": "PC",
+        "quantidade": "1.501,000"
+      }
+    ]
+  },
+  {
+    "dt": "11000000",
+    "peso": "3.932,000",
+    "regiao": "SETE LAGOAS",
+    "data_hora": "11.06.2025-17:05:00",
+    "origem": "CD02 - Belo Horizonte - MG",
+    "clientes": "39200 - SHALOM II_METAIS COMERCIO DE FERRAG, 68529 - F.E. COMERCIO DE FERRO E ACO SETE L",
+    "municipio": "RIBEIRAO DAS NEVES, SETE LAGOAS",
+    "uf": "MG, MG",
+    "itens_material": [
+      {
+        "material": "77010156",
+        "descricao": "TBC 30x50x1,20LFx6000 BC",
+        "unidade": "KG",
+        "quantidade": "1.062,000"
+      },
+      {
+        "material": "77010152",
+        "descricao": "TBC 30x40x1,20LFx6000 BC",
+        "unidade": "KG",
+        "quantidade": "820,000"
+      },
+      {
+        "material": "77025410",
+        "descricao": "TBC 40x40x1,20LFx6000 BC",
+        "unidade": "KG",
+        "quantidade": "1.061,000"
+      },
+      {
+        "material": "77010197",
+        "descricao": "TBC 50x50x1,50LFx6000 BC",
+        "unidade": "KG",
+        "quantidade": "989,000"
+      }
+    ]
+  },
+  {
+    "dt": "11000005",
+    "peso": "24.786,000",
+    "regiao": "POUSO ALEGRE",
+    "data_hora": "11.06.2025-17:44:00",
+    "origem": "TB01 - Taubaté - SP",
+    "clientes": "151 - AETHRA SISTEMAS AUTOMOTIVOS S.A., 34922 - AETHRA SISTEMAS AUTOMOTIVOS S.A.",
+    "municipio": "POUSO ALEGRE, POUSO ALEGRE",
+    "uf": "MG, MG",
+    "itens_material": [
+      {
+        "material": "34008079",
+        "descricao": "TZ 1,00x300x1500 DIN-10346-HX340LAD Z100",
+        "unidade": "PC",
+        "quantidade": "300,000"
+      },
+      {
+        "material": "34008056",
+        "descricao": "BKS ? PAINEL LATERAL DIREITO",
+        "unidade": "PC",
+        "quantidade": "200,000"
+      },
+      {
+        "material": "34008716",
+        "descricao": "CZ-LAV 1,50  x 890 x 2260 HX260YD Z100MB",
+        "unidade": "PC",
+        "quantidade": "798,000"
+      }
+    ]
+  },
+  {
+    "dt": "20149627",
+    "peso": "19.035,000",
+    "regiao": "Guarulhos",
+    "data_hora": "11.06.2025-13:00:00",
+    "origem": "100022 - FERROLENE S/A  INDÚSTRIA COMÉRCIO",
+    "clientes": "ZGUA - Guarulhos: Bonsucesso - SP",
+    "municipio": "Guarulhos",
+    "uf": "SP",
+    "itens_material": [
+      {
+        "material": "34022680",
+        "descricao": "RGD 12,00X150X DIN-EN-10149-2-S420-MC",
+        "unidade": "KG",
+        "quantidade": "11.620,000"
+      },
+      {
+        "material": "34029383",
+        "descricao": "RGD  8,00X90X NBR-6655-11-LN-360",
+        "unidade": "KG",
+        "quantidade": "7.000,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999520",
+    "peso": "26.875,000",
+    "regiao": "SAO JOAQUIM DE BICAS",
+    "data_hora": "10.06.2025-12:25:00",
+    "origem": "ZMEC - Ipatinga - MG (Mecânica)",
+    "clientes": "65784 - COFERMOM CONSTRUCOES LTDA, 61612 - RAMAH - TECNOLOGIA INDUSTRIAL LTDA, 33595 - H.C.I HIDRAULICA CONEXOES INDUSTRIA",
+    "municipio": "SAO JOAQUIM DE BICAS, SÃO JOAQUIM DE BICAS, GUARULHOS",
+    "uf": "MG, MG, SP",
+    "itens_material": [
+      {
+        "material": "50027204",
+        "descricao": "CG - LCG 25,00X2500X6000 ASTM-A-36/ASTM-",
+        "unidade": "KG",
+        "quantidade": "12.080,000"
+      },
+      {
+        "material": "50027082",
+        "descricao": "CG 19,00x2500x6000 A36/A131/A283C-BAP",
+        "unidade": "KG",
+        "quantidade": "2.305,000"
+      },
+      {
+        "material": "50027087",
+        "descricao": "CG-LCG 6,30X2500X12000 ASTM-A-36/A-131A/",
+        "unidade": "KG",
+        "quantidade": "1.565,000"
+      },
+      {
+        "material": "30001045",
+        "descricao": "CG-LCG 6,30X2500X12000 ASTM-A-36/A-131A/",
+        "unidade": "KG",
+        "quantidade": "10.925,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999686",
+    "peso": "30.820,000",
+    "regiao": "CONTAGEM",
+    "data_hora": "10.06.2025-17:55:00",
+    "origem": "ZMEC - Ipatinga - MG (Mecânica)",
+    "clientes": "84404 - CERPAL COMERCIO DE FERROS LTDA, 27814 - GIRASSOL COMERCIO DE FERROS LTDA, 66730 - ITALIA INDUSTRIA E SERVICOS UNIPESS, 5797 - INDUSTRIA SANTA CLARA S/A",
+    "municipio": "GOIANIA, GOIANIA, LEOPOLDO DE BULHOES, CONTAGEM",
+    "uf": "GO, GO, GO, MG",
+    "itens_material": [
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 19,00X2440X6000 SAE-1045",
+        "unidade": "KG",
+        "quantidade": "2.320,000"
+      },
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 31,50X2440X6000 SAE-1045",
+        "unidade": "KG",
+        "quantidade": "3.885,000"
+      },
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 25,00X2440X6000 SAE-1045",
+        "unidade": "KG",
+        "quantidade": "3.050,000"
+      },
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 31,50X2500X6000 ASTM-A-36/ASTM-A1",
+        "unidade": "KG",
+        "quantidade": "3.865,000"
+      },
+      {
+        "material": "50027204",
+        "descricao": "CG - LCG 25,00X2500X6000 ASTM-A-36/ASTM-",
+        "unidade": "KG",
+        "quantidade": "3.020,000"
+      },
+      {
+        "material": "50027204",
+        "descricao": "CG - LCG 25,00X2500X6000 ASTM-A-36/ASTM-",
+        "unidade": "KG",
+        "quantidade": "3.020,000"
+      },
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 50,00X2440X12000 USI-GV",
+        "unidade": "KG",
+        "quantidade": "11.660,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999974",
+    "peso": "28.225,000",
+    "regiao": "CRAVINHOS",
+    "data_hora": "11.06.2025-15:59:00",
+    "origem": "ZMEC - Ipatinga - MG (Mecânica)",
+    "clientes": "12112 - PALETRANS EQUIPAMENTOS LTDA, 22077 - USINA SANTA ADELIA S/A",
+    "municipio": "CRAVINHOS, JABOTICABAL",
+    "uf": "SP, SP",
+    "itens_material": [
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 31,50X2500X6000 ASTM-A-36/ASTM-A1",
+        "unidade": "KG",
+        "quantidade": "3.835,000"
+      },
+      {
+        "material": "50027204",
+        "descricao": "CG-LCG 25,00X2500X6000 ASTM-A-285-GR-C",
+        "unidade": "KG",
+        "quantidade": "3.040,000"
+      },
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 12,50X2500X6000 ASTM-A-36/A-131A/",
+        "unidade": "KG",
+        "quantidade": "6.140,000"
+      },
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 12,50X2500X6000 ASTM-A-36/A-131A/",
+        "unidade": "KG",
+        "quantidade": "15.210,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999979",
+    "peso": "28.490,000",
+    "regiao": "BETIM",
+    "data_hora": "11.06.2025-16:06:00",
+    "origem": "ZMEC - Ipatinga - MG (Mecânica)",
+    "clientes": "31139 - TECHNEAÇO ENGENHARIA LTDA, 3595 - ROSSETTI EQUIPAMENTOS RODOVIARIOS L, 5797 - INDUSTRIA SANTA CLARA S/A",
+    "municipio": "BETIM, BETIM, CONTAGEM",
+    "uf": "MG, MG, MG",
+    "itens_material": [
+      {
+        "material": "34020556",
+        "descricao": "CG - LCG 10,00X2500X6000 USI-RAVUR-450",
+        "unidade": "KG",
+        "quantidade": "1.205,000"
+      },
+      {
+        "material": "34020554",
+        "descricao": "CG - LCG  8,00X2500X6000 USI-RAVUR-450",
+        "unidade": "KG",
+        "quantidade": "1.990,000"
+      },
+      {
+        "material": "34020554",
+        "descricao": "CG - LCG  8,00X2500X6000 USI-RAVUR-450",
+        "unidade": "KG",
+        "quantidade": "3.890,000"
+      },
+      {
+        "material": "34020554",
+        "descricao": "CG - LCG  8,00X2500X6000 USI-RAVUR-450",
+        "unidade": "KG",
+        "quantidade": "1.990,000"
+      },
+      {
+        "material": "34020556",
+        "descricao": "CG - LCG 10,00X2500X6000 USI-RAVUR-450",
+        "unidade": "KG",
+        "quantidade": "1.205,000"
+      },
+      {
+        "material": "30001045",
+        "descricao": "CG-LCG 8,00X2500X12000 ASTM-A-36/A-131A/",
+        "unidade": "KG",
+        "quantidade": "3.980,000"
+      },
+      {
+        "material": "30001045",
+        "descricao": "CG-LCG 8,00X2500X12000 ASTM-A-36/A-131A/",
+        "unidade": "KG",
+        "quantidade": "4.010,000"
+      },
+      {
+        "material": "30001045",
+        "descricao": "CG-LCG 8,00X2500X12000 ASTM-A-36/A-131A/",
+        "unidade": "KG",
+        "quantidade": "3.980,000"
+      },
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 50,00X2440X12000 USI-GV",
+        "unidade": "KG",
+        "quantidade": "12.210,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999994",
+    "peso": "26.395,000",
+    "regiao": "FRANCA",
+    "data_hora": "11.06.2025-16:30:00",
+    "origem": "ZMEC - Ipatinga - MG (Mecânica)",
+    "clientes": "32358 - COMERCIO DE METAIS ISSOR LTDA, 67296 - FUNDICAO JCV LTDA, 29728 - INDUSTRIA METALURGICA R. M. FRANCA, 24482 - AGMAQ EQUIPAM. E MONTAGENS",
+    "municipio": "MARINGA, DOBRADA, FRANCA, RIBEIRAO PRETO",
+    "uf": "PR, SP, SP, SP",
+    "itens_material": [
+      {
+        "material": "50025274",
+        "descricao": "CG-LCG 37,50X2440X6000 ASTM-A-36/ASTM-A1",
+        "unidade": "KG",
+        "quantidade": "8.840,000"
+      },
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 37,50X2440X3000 ASTM-A-36/ASTM-A1",
+        "unidade": "KG",
+        "quantidade": "4.505,000"
+      },
+      {
+        "material": "30001046",
+        "descricao": "CG-LCG 19,00X2500X3000 ASTM-A-36/A-131A/",
+        "unidade": "KG",
+        "quantidade": "4.700,000"
+      },
+      {
+        "material": "30001047",
+        "descricao": "CG-LCG 31,50X2595X6000 NTU-QC-250",
+        "unidade": "KG",
+        "quantidade": "3.976,000"
+      },
+      {
+        "material": "30001047",
+        "descricao": "CG-LCG 31,50X2595X5000 NTU-QC-250",
+        "unidade": "KG",
+        "quantidade": "3.313,000"
+      },
+      {
+        "material": "30001047",
+        "descricao": "CG-LCG 31,50X2595X1600 NTU-QC-250",
+        "unidade": "KG",
+        "quantidade": "1.061,000"
+      }
+    ]
+  },
+  {
+    "dt": "10999999",
+    "peso": "26.473,000",
+    "regiao": "SALTO DE PIRAPORA",
+    "data_hora": "11.06.2025-16:58:00",
+    "origem": "ZMEC - Ipatinga - MG (Mecânica)",
+    "clientes": "32118 - JOST AGRICULTURE & CONSTRUCTION, 75196 - VITEC EQUIPAMENTOS INDUSTRIAIS LTDA",
+    "municipio": "GUARANESIA, SALTO DE PIRAPORA",
+    "uf": "MG, SP",
+    "itens_material": [
+      {
+        "material": "30001045",
+        "descricao": "CG-LCG 6,30X2500X12000 ASTM-A-36/A-131A/",
+        "unidade": "KG",
+        "quantidade": "1.553,000"
+      },
+      {
+        "material": "34029780",
+        "descricao": "CG - LCG 25,40X2520X6000 USI-CIVIL-300/U",
+        "unidade": "KG",
+        "quantidade": "24.920,000"
+      }
+    ]
+  },
+  {
+    "dt": "20149607",
+    "peso": "10.554,000",
+    "regiao": "Guarulhos",
+    "data_hora": "10.06.2025-11:27:00",
+    "origem": "106952 - MULTIAÇOS INDÚSTRIA E COMÉRCIO DE P",
+    "clientes": "ZGUA - Guarulhos: Bonsucesso - SP",
+    "municipio": "Guarulhos",
+    "uf": "SP",
+    "itens_material": [
+      {
+        "material": "30001062",
+        "descricao": "CFF",
+        "unidade": "KG",
+        "quantidade": "10.314,000"
+      }
+    ]
+  }
+]
